@@ -1,0 +1,10 @@
+﻿{
+  "highest_score": 0,
+  "normal_tickets": 0,
+  "premium_tickets": 0,
+  "owned_characters": ["knight_blue", "C001"],
+  "selected_character_id": "knight_blue",
+  "character_shards": {},
+  "selected_pet_type": null,
+  "first_boss_pet_reward_taken": false
+}
